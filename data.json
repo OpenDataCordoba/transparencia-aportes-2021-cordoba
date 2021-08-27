@@ -1,0 +1,46 @@
+[
+    {
+        "nombre": "Partido 1",
+        "web": "https://partido1.com/",
+        "data": {
+            "gastos": {
+                "csv": "https://partido1.com/gastos.csv",
+                "xls": "https://partido1.com/gastos.xls"
+            },
+            "ingresos": {},
+            "candidatos": {
+                "csv": "https://partido1.com/candidatos.csv",
+                "xls": "https://partido1.com/candidatos.xls"
+            }
+        }
+    },
+    {
+        "nombre": "Partido 2",
+        "web": "https://partido2.com/",
+        "data": {
+            "gastos": {
+                "csv": "https://partido2.com/gastos.csv",
+                "xls": "https://partido2.com/gastos.xls"
+            },
+            "ingresos": {
+                "csv": "https://partido2.com/ingresos.csv"
+            },
+            "candidatos": {
+                "xls": "https://partido2.com/candidatos.xls"
+            }
+        }
+    },
+    {
+        "nombre": "Partido 3",
+        "data": {
+            "gastos": {},
+            "ingresos": {
+                "csv": "https://partido2.com/ingresos.csv",
+                "xls": "https://partido2.com/ingresos.xls"
+            },
+            "candidatos": {
+                "xls": "https://partido2.com/candidatos.xls"
+            }
+        }
+    }
+]
