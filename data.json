@@ -2,7 +2,7 @@
     {
         "nombre": "Encuentro Vecinal Córdoba",
         "web": "https://evcba.com.ar/",
-        "boleta": "/img/boleta-epccba.jpg",
+        "boleta": "img/boleta-epccba.jpg",
         "lista": "217",
         "data": {
             "gastos": {
@@ -20,133 +20,133 @@
     {
         "nombre": "Espacio de Acción colectiva",
         "lista": "40A",
-        "boleta": "/img/40.webp",
+        "boleta": "img/40.webp",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Forjando Córdoba",
         "lista": "75A",
-        "boleta": "/img/75A.webp",
+        "boleta": "img/75A.webp",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Frente de Izquierda",
         "lista": "504 2B",
-        "boleta": "/img/504.webp",
+        "boleta": "img/504.webp",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Frente de Izquierda",
         "lista": "504 14U",
-        "boleta": "/img/50414U.jpeg",
+        "boleta": "img/50414U.jpeg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Frente de Izquierda",
         "lista": "504 10",
-        "boleta": "/img/504-10.jpg",
+        "boleta": "img/504-10.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Frente de Todos",
         "lista": "505 A",
-        "boleta": "/img/505A.jpeg",
+        "boleta": "img/505A.jpeg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Hacemos por Córdoba",
         "lista": "502",
-        "boleta": "/img/502.jpg",
+        "boleta": "img/502.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Juntos por el Cambio",
         "lista": "503 J",
-        "boleta": "/img/503J.webp",
+        "boleta": "img/503J.webp",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Juntos por el Cambio",
         "lista": "503 C",
-        "boleta": "/img/503c.webp",
+        "boleta": "img/503c.webp",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Juntos por el Cambio",
         "lista": "503 B",
-        "boleta": "/img/503B.webp",
+        "boleta": "img/503B.webp",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Juntos por el Cambio",
         "lista": "503 A",
-        "boleta": "/img/503A.jpeg",
+        "boleta": "img/503A.jpeg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "La Libertad Avanza",
         "lista": "501",
-        "boleta": "/img/501.webp",
+        "boleta": "img/501.webp",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Movimiento al Socialismo",
         "lista": "240",
-        "boleta": "/img/240.jpg",
+        "boleta": "img/240.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Partido demócrata",
         "lista": "85",
-        "boleta": "/img/85.jpg",
+        "boleta": "img/85.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Córdoba Humanista",
         "lista": "229",
-        "boleta": "/img/229.jpg",
+        "boleta": "img/229.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Partido Popular",
         "lista": "242",
-        "boleta": "/img/242.jpg",
+        "boleta": "img/242.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Republicanos",
         "lista": "23 D",    
-        "boleta": "/img/23D.jpg",
+        "boleta": "img/23D.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Esencia P. Salud",
         "lista": "23 E",
-        "boleta": "/img/23E.jpg",
+        "boleta": "img/23E.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Sumate A+ Córdoba",
         "lista": "23 C",
-        "boleta": "/img/23C.jpg",
+        "boleta": "img/23C.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Vivienda y Trabajo",
         "lista": "23 A",
-        "boleta": "/img/23A.jpg",
+        "boleta": "img/23A.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "Fraternidad",
         "lista": "23 B",
-        "boleta": "/img/23b.jpg",
+        "boleta": "img/23b.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     },
     {
         "nombre": "La lista del Pueblo",
         "lista": "23 F",
-        "boleta": "/img/23F.jpg",
+        "boleta": "img/23F.jpg",
         "data": {"gastos": {}, "ingresos": {}, "candidatos": {}}
     }
 ]
