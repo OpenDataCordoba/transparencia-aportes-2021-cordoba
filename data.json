@@ -14,6 +14,7 @@
                 "xls": "https://docs.google.com/spreadsheets/d/1qpO57vQ5L-jo2L3s-LGXV1b8HoEOeVrIdVwS_lmSOnA/export?format=xlsx&gid=0"
             },
             "candidatos": {
+                "pdf": "/data/Lista de Candidatos Valores en Acción EVC.pdf"
             }
         }
     },
