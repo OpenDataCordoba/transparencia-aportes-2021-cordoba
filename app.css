@@ -8,13 +8,16 @@ h1 {
 }
 
 .header {
-    margin: 70px 30%;
+    margin: 70px 0px;
+    background-color: #cce1f3;
     width: 100%;
 }
 
 .header img {
-    margin: auto;
-    max-width: 200px;
+    margin: 5px auto;
+    padding: 25px;
+    max-width: 400px;
+    display: block;
 }
 
 .boleta {

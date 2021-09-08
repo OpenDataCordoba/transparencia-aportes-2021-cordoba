@@ -6,15 +6,15 @@
         "lista": "217",
         "data": {
             "gastos": {
-                "csv": "https://docs.google.com/spreadsheets/d/1qpO57vQ5L-jo2L3s-LGXV1b8HoEOeVrIdVwS_lmSOnA/export?format=csv&gid=1607558667",
-                "xls": "https://docs.google.com/spreadsheets/d/1qpO57vQ5L-jo2L3s-LGXV1b8HoEOeVrIdVwS_lmSOnA/export?format=xlsx&gid=1607558667"
+                "csv": "https://docs.google.com/spreadsheets/d/169xN5bHlzPk1pSKJkwt4DlxJaJnYsRdX7BJ-dUofTb8/export?format=csv&gid=1607558667",
+                "xls": "https://docs.google.com/spreadsheets/d/169xN5bHlzPk1pSKJkwt4DlxJaJnYsRdX7BJ-dUofTb8/export?format=xlsx&gid=1607558667"
             },
             "ingresos": {
-                "csv": "https://docs.google.com/spreadsheets/d/1qpO57vQ5L-jo2L3s-LGXV1b8HoEOeVrIdVwS_lmSOnA/export?format=csv&gid=0",
-                "xls": "https://docs.google.com/spreadsheets/d/1qpO57vQ5L-jo2L3s-LGXV1b8HoEOeVrIdVwS_lmSOnA/export?format=xlsx&gid=0"
+                "csv": "https://docs.google.com/spreadsheets/d/169xN5bHlzPk1pSKJkwt4DlxJaJnYsRdX7BJ-dUofTb8/export?format=csv&gid=0",
+                "xls": "https://docs.google.com/spreadsheets/d/169xN5bHlzPk1pSKJkwt4DlxJaJnYsRdX7BJ-dUofTb8/export?format=xlsx&gid=0"
             },
             "candidatos": {
-                "pdf": "/data/Lista de Candidatos Valores en Acción EVC.pdf"
+                "pdf": "data/Lista de Candidatos Valores en Acción EVC.pdf"
             }
         }
     },
